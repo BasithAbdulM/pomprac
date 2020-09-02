@@ -24,6 +24,7 @@ public class LoginTestCase {
 //        LoginPageObject.username(driver).sendKeys("Admin");
 //        LoginPageObject.password(driver).sendKeys("admin123");
 //        LoginPageObject.submit(driver).click();
+
 //        LoginPageObject loginPageObject=new LoginPageObject();
 //        loginPageObject.username(driver).sendKeys("Admin");
 //        loginPageObject.password(driver).sendKeys("admin123");
